@@ -6,7 +6,7 @@ Git course was first introduced in the Hack Your Future (HYF henceforth) in Sept
 We want to use this repository as an archive of course material (slides/tutorials), useful resources, teaching ideas etc.
 
 Also check out our Git [playlist](https://www.youtube.com/playlist?list=PLVYDhqbgYpYUGxRdtQdYVE5Q8h3bt6SIA) for tutorials
-
+this test for the homework
 ## learning goals lesson 1
  
 
